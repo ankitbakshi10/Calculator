@@ -4,6 +4,9 @@ This is a repository consisting of my project i.e., Calculator which I built dur
 ## Project Link
 Calculator: https://ankitbakshi10.github.io/Calculator/
 
+## Project Image
+<img src="Calculator.png>
+
 ## Author
     @ankitbakshi10
 
