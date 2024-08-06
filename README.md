@@ -5,7 +5,7 @@ This is a repository consisting of my project i.e., Calculator which I built dur
 Calculator: https://ankitbakshi10.github.io/Calculator/
 
 ## Project Image
-<img src="Calculator.png>
+![Calculator](https://github.com/ankitbakshi10/Calculator/blob/main/Calculator.png)
 
 ## Author
     @ankitbakshi10
